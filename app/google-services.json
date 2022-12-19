@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341831403552",
+    "project_id": "trisha-3af42",
+    "storage_bucket": "trisha-3af42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341831403552:android:f72bc50b20fd9d39a6d445",
+        "android_client_info": {
+          "package_name": "com.example.trisha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341831403552-ca60b6gp6m56n2q668u6dg2em14uqq7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRDOIwKWKh21qbqp5e6oaOETdKUx9AiCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341831403552-ca60b6gp6m56n2q668u6dg2em14uqq7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

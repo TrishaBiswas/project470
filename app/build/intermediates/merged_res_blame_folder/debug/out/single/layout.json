@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.trisha.app-mergeDebugResources-5:/layout/activity_add_video.xml",
+        "source": "com.example.trisha.app-main-8:/layout/activity_add_video.xml"
+    },
+    {
+        "merged": "com.example.trisha.app-mergeDebugResources-5:/layout/activity_user_profile_update.xml",
+        "source": "com.example.trisha.app-main-8:/layout/activity_user_profile_update.xml"
+    },
+    {
+        "merged": "com.example.trisha.app-mergeDebugResources-5:/layout/activity_splash_screen.xml",
+        "source": "com.example.trisha.app-main-8:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.trisha.app-mergeDebugResources-5:/layout/activity_main.xml",
+        "source": "com.example.trisha.app-main-8:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.trisha.app-mergeDebugResources-5:/layout/activity_dash_board.xml",
+        "source": "com.example.trisha.app-main-8:/layout/activity_dash_board.xml"
+    },
+    {
+        "merged": "com.example.trisha.app-mergeDebugResources-5:/layout/activity_payment.xml",
+        "source": "com.example.trisha.app-main-8:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "com.example.trisha.app-mergeDebugResources-5:/layout/sample_video_row_dashboard.xml",
+        "source": "com.example.trisha.app-main-8:/layout/sample_video_row_dashboard.xml"
+    },
+    {
+        "merged": "com.example.trisha.app-mergeDebugResources-5:/layout/activity_comment_panel.xml",
+        "source": "com.example.trisha.app-main-8:/layout/activity_comment_panel.xml"
+    },
+    {
+        "merged": "com.example.trisha.app-mergeDebugResources-5:/layout/activity_login.xml",
+        "source": "com.example.trisha.app-main-8:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.trisha.app-mergeDebugResources-5:/layout/sample_comment_row.xml",
+        "source": "com.example.trisha.app-main-8:/layout/sample_comment_row.xml"
+    }
+]
